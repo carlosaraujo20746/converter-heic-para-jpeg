@@ -51,9 +51,8 @@ python .\converter_heic_para_jpeg.py `
 - `fotos_heic/` — entrada (pode conter subpastas)
 - `fotos_jpeg/` — saída (estrutura replicada)
 
-## Licença e autoria
+## Autoria
 
-- Licença: MIT
 - Autor: Carlos Araújo
 
 ## Problemas comuns
