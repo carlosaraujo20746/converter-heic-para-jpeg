@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache
+*.pyo
+*.pyd
+
+# Fotos e saídas (não enviar para o GitHub)
+/fotos_heic/
+/fotos_jpeg/
+*.heic
+*.HEIC
+*.heif
+*.HEIF
